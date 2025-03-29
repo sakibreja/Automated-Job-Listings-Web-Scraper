@@ -1,6 +1,4 @@
 # Automated-Job-Listings-Web-Scraper
-
-Automated Job Listings Web Scraper
 Role: Data Scientist
 Purpose: Developed a web scraping tool to extract real-time job listings, analyze salary trends, and identify hiring patterns in the data science job market.
 Tools & Technologies: Python, BeautifulSoup, Requests, Pandas, NumPy, Matplotlib, Seaborn, WordCloud
